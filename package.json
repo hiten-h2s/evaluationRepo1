@@ -1,0 +1,19 @@
+{
+  "name": "contra-reborn",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1",
+    "vitest": "^3.0.0"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0"
+  }
+}
